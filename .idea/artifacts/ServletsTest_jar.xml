@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServletsTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletsTest_jar</output-path>
+    <root id="archive" name="ServletsTest.jar">
+      <element id="module-output" name="ServletsTest" />
+      <element id="extracted-dir" path="X:/Tomcat/lib/servlet-api.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
